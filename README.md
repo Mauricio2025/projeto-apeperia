@@ -6,12 +6,6 @@ Bem-vindo ao repositório oficial da Apeperia, uma empresa dedicada à criação
 
 A Apeperia se destaca na criação de designs web que se adaptam perfeitamente a diferentes tamanhos de tela, oferecendo uma experiência de usuário consistente em smartphones, tablets e desktops.
 
-### Tecnologias Utilizadas
-
-- **HTML:** Estruturação semântica para uma base sólida.
-- **CSS:** Estilização moderna, garantindo uma aparência atraente e responsiva.
-- **JavaScript:** Interatividade para uma experiência de usuário dinâmica.
-
 ## Recursos Principais
 
 1. **Layout Responsivo:** Garantimos que nosso site seja visualmente atraente em todos os dispositivos, mantendo a funcionalidade e a usabilidade.
